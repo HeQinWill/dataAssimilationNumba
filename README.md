@@ -1,3 +1,5 @@
 # dataAssimilationNumba
-想要利用numba加速资料同化的程序
-已经成功clone，接下来尝试同步到github
+想要利用numba加速资料同化的程序 
+已经成功clone，接下来尝试同步到github 
+github已经收到 
+接下来测试pull到本地
